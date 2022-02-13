@@ -1,0 +1,26 @@
+{
+  "name": "js-e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oliwia789/MyStore_e-commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oliwia789/MyStore_e-commerce/issues"
+  },
+  "homepage": "https://github.com/Oliwia789/MyStore_e-commerce#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express.js": "^1.0.0",
+    "firebase": "^9.6.6",
+    "nodemon": "^2.0.15"
+  }
+}
